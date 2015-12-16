@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ohwuteva.github.io
+title: ohwuteva
+paginate: 10
